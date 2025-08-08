@@ -3,3 +3,54 @@ Para que sirven los botones de anterior y siguiente
 La parte de morosos aun sigo sin comprenderla ---- resuelta
 
 como se envia a un cliente a morosos -- resuelta
+
+
+Cuentas Asignadas
+
+enrutar
+historial
+cliente sin pagar aun en ruta 
+buscador...
+cobranza -> asignar a roles administrativas hasta cobradores
+
+
+ruta -> generar recibos esten pendientes de ser pagado
+
+comentarios de seguimiento
+buscador
+quitqar los botones
+estado cambio de color
+
+comentarios localdate today
+ubicacion actual de donde se genero el comentario
+
+en ruta opcion de orden de ruta a cualquier cliente, que exista la opcion
+
+
+
+Uncaught Error: Cannot read properties of undefined (reading 'businessName')
+    at RoutePlanner.tsx:180:85
+    at Array.map (<anonymous>)
+    at RoutePlanner (RoutePlanner.tsx:176:49)
+    at RoutesPage (page.tsx:14:7)
+
+intercept-console-error.ts:40 Error optimizing route: TypeError: Cannot read properties of undefined (reading 'id')
+    at RoutePlanner.tsx:96:79
+    at Array.map (<anonymous>)
+    at handleOptimizeRoute (RoutePlanner.tsx:96:68)
+error	@	intercept-console-error.ts:40
+
+
+3 semanas sin paga a morosos
+
+3 amarillo
+4 naranja
+5 rojo
+
+alarmante-morado
+
+
+
+en el contrato poner el logo y el nombre de la empresa
+
+pequeño: poner el logo en el king designs del sidebar
