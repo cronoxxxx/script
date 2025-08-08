@@ -1,4 +1,4 @@
-PRODUCT
+PRODUCTS
 
 "JntQ7TupE7aCryBW4ura": {
             "name": "BANDERA PERSONALIZADA 4M",
@@ -16,7 +16,7 @@ PRODUCT
         }
 ------------------
 
-RECEIPT
+RECEIPTS
 
 "X9PEikmcd1Au5VEfIQGn": {
             "paymentMethod": "card",
@@ -33,7 +33,7 @@ RECEIPT
         }
 ------------------
 
-USER
+USERS
 
 "PSi7htKqhVglxhdnfNYnsaGfO7G3": {
             "role": "admin",
@@ -46,7 +46,7 @@ USER
         }
 ----------------------
 
-CONTRACT
+CONTRACTS
 
 "zwS3meCv85FiI800GBcv": {
             "reference": {
@@ -101,7 +101,7 @@ CONTRACT
 
 ---------------------
 
-CLIENT
+CLIENTS
 
 "EBm4j0oxmWU6GAJIVmcb": {
             "contactName": "THE KING DESINGs",
