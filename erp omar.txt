@@ -1,0 +1,146 @@
+PRODUCT
+
+"JntQ7TupE7aCryBW4ura": {
+            "name": "BANDERA PERSONALIZADA 4M",
+            "reviewedBy": "PSi7htKqhVglxhdnfNYnsaGfO7G3",
+            "status": "rejected",
+            "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABmgAAAQcCAYAAACRVRQmAAAKN2lDQ1BzUkdCIElFQzYxOTY2LTIuMQAAeJydlndUU9kWh8+9N71QkhCKlNBraFICSA29SJEuKjEJEErAkAAiNkRUcERRkaYIMijggKNDkbEiioUBUbHrBBlE1HFwFBuWSWStG",
+            "reviewedAt": "2025-08-02T02:16:25.300000+00:00",
+            "price": 2500,
+            "commissionAmount": 400,
+            "productionCost": 800,
+            "description": "bandera publicitaria personalizada de 4 metros con tubos y base ancla",
+            "createdAt": "2025-08-02T02:16:15.970000+00:00",
+            "commissionPercentage": 16,
+            "createdBy": "PSi7htKqhVglxhdnfNYnsaGfO7G3"
+        }
+------------------
+
+RECEIPT
+
+"X9PEikmcd1Au5VEfIQGn": {
+            "paymentMethod": "card",
+            "clientId": "EBm4j0oxmWU6GAJIVmcb",
+            "contractId": "7LgaBQFmWDOgDJpsL08I",
+            "amountPaid": 23,
+            "collectorId": "PSi7htKqhVglxhdnfNYnsaGfO7G3",
+            "paymentDate": "2025-08-07T05:29:11.257000+00:00",
+            "geolocation": {
+                "lng": -3.6110336,
+                "lat": 40.4291584
+            },
+            "createdAt": "2025-08-07T05:29:11.094000+00:00"
+        }
+------------------
+
+USER
+
+"PSi7htKqhVglxhdnfNYnsaGfO7G3": {
+            "role": "admin",
+            "lastName": "lorenzo",
+            "status": "active",
+            "firstName": "omar",
+            "createdAt": "2025-08-01T05:14:44.140000+00:00",
+            "email": "omardeal115@gmail.com",
+            "uid": "PSi7htKqhVglxhdnfNYnsaGfO7G3"
+        }
+----------------------
+
+CONTRACT
+
+"zwS3meCv85FiI800GBcv": {
+            "reference": {
+                "name": "gabiS",
+                "phone": "122323",
+                "relationship": "asdsadA"
+            },
+            "downPayment": 0,
+            "paymentDay": "thursday",
+            "clientId": "lU6poBwnQKPyqHrVh1Ci",
+            "salespersonId": "PSi7htKqhVglxhdnfNYnsaGfO7G3",
+            "products": [
+                {
+                    "name": "Mu\u00f1equito",
+                    "productId": "gquGmhECjnkxALJsoQHJ",
+                    "quantity": 1,
+                    "price": 222,
+                    "description": "asdsadsadsad"
+                },
+                {
+                    "name": "asdsadsad",
+                    "productId": "wfLdjzqRgL8vlf0d1hKN",
+                    "quantity": 1,
+                    "price": 3,
+                    "description": "asdasdasdsadasdsad"
+                }
+            ],
+            "signatureDataUrl": "",
+            "remainingBalance": 218.25,
+            "startDate": "2025-08-20T22:00:00+00:00",
+            "saleType": "credito",
+            "interestRate": 0,
+            "privacyPolicyAccepted": true,
+            "finalAmount": 218.25,
+            "discountPercentage": 3,
+            "idImageUrl": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/4gHYSUNDX1BST0ZJTEUAAQEAAAHIAAAAAAQwAABtbnRyUkdCIFhZWiAH4AABAAEAAAAAAABhY3NwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA9tYAAQAAAADTLQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlkZXNjAAAA8AAAACRyWFlaAAABFAAAABRnWFlaAAABKAAAABRiWFlaAAABPAAAAB",
+            "paymentFrequency": "weekly",
+            "status": "active",
+            "amountPaid": 0,
+            "totalCommissionEarned": 4.5,
+            "authorizedImagesUrl": [
+                "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/4gHYSUNDX1BST0ZJTEUAAQEAAAHIAAAAAAQwAA"
+            ],
+            "totalAmount": 225,
+            "nextPaymentDate": "2025-08-27T22:00:00+00:00",
+            "createdAt": "2025-08-06T11:48:25.947000+00:00",
+            "geolocation": {
+                "lng": -3.6110336,
+                "lat": 40.4291584
+            }
+        }
+
+---------------------
+
+CLIENT
+
+"EBm4j0oxmWU6GAJIVmcb": {
+            "contactName": "THE KING DESINGs",
+            "address": {
+                "city": "Madrid",
+                "location": {
+                    "lng": -117.03531608572398,
+                    "lat": 32.51289694860139
+                },
+                "state": "Madrid",
+                "zip": "27099",
+                "street": "1685 Precision Park 122"
+            },
+            "clientOrder": 4,
+            "delinquencyStatus": "on_time",
+            "salespersonId": "PSi7htKqhVglxhdnfNYnsaGfO7G3",
+            "phone": "61998155223",
+            "collectorId": "PSi7htKqhVglxhdnfNYnsaGfO7G3",
+            "businessName": "King Design LLCs",
+            "createdAt": "2025-08-05T18:55:48.541000+00:00",
+            "email": "omardeal@gmail.com",
+            "clientNumber": "CLI-Y3C02"
+        }
+
+------------------
+
+COMPANY
+"profile": {
+            "companyName": "King Designs ",
+            "socialLinks": {
+                "instagram": "https://www.instagram.com",
+                "facebook": "https://www.facebook.com"
+            },
+            "address": "calle negrete 126",
+            "updatedBy": "PSi7htKqhVglxhdnfNYnsaGfO7G3",
+            "phone": "6645411484",
+            "logoDataUrl": "data:image/jpeg;base64,ppFikVAAAAAAAAAB",
+            "email": "administracion@thekingdesing.com",
+            "updatedAt": "2025-08-07T07:55:39.929000+00:00"
+        }
+
+
