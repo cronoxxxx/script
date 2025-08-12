@@ -14,15 +14,17 @@ buscador...
 cobranza -> asignar a roles administrativas hasta cobradores
 
 
-ruta -> generar recibos esten pendientes de ser pagado
+ruta -> generar recibos esten pendientes de ser pagado -- preguntar mas a detalle
 
-comentarios de seguimiento
-buscador
-quitqar los botones
-estado cambio de color
+preguntar mas a detalle sobre el estado de la persona 
 
-comentarios localdate today
-ubicacion actual de donde se genero el comentario
+comentarios de seguimiento -- resuelto
+buscador -- resuelto
+quitqar los botones -- resuelto
+estado cambio de color -- por ver
+
+comentarios localdate today -- resuelto
+ubicacion actual de donde se genero el comentario -- resuelto
 
 en ruta opcion de orden de ruta a cualquier cliente, que exista la opcion
 
@@ -38,10 +40,10 @@ intercept-console-error.ts:40 Error optimizing route: TypeError: Cannot read pro
     at RoutePlanner.tsx:96:79
     at Array.map (<anonymous>)
     at handleOptimizeRoute (RoutePlanner.tsx:96:68)
-error	@	intercept-console-error.ts:40
+error	@	intercept-console-error.ts:40 -- corregido
 
 
-3 semanas sin paga a morosos
+3 semanas sin paga a morosos 
 
 3 amarillo
 4 naranja
@@ -51,6 +53,13 @@ alarmante-morado
 
 
 
-en el contrato poner el logo y el nombre de la empresa
+en el contrato poner el logo y el nombre de la empresa -- corregido
 
-pequeño: poner el logo en el king designs del sidebar
+pequeño: poner el logo en el king designs del sidebar -- corregido
+
+dudas
+
+mapa de ventas
+morosos dos semanas
+quitar estado de mora o no
+roles

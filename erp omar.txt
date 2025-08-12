@@ -144,3 +144,40 @@ COMPANY
         }
 
 
+https://console.firebase.google.com/v1/r/project/sistema-cobranza-92edf/firestore/indexes?create_composite=Clhwcm9qZWN0cy9zaXN0ZW1hLWNvYnJhbnphLTkyZWRmL2RhdGFiYXNlcy8oZGVmYXVsdCkvY29sbGVjdGlvbkdyb3Vwcy9jb250cmFjdHMvaW5kZXhlcy9fEAEaCgoGc3RhdHVzEAEaFAoQcmVtYWluaW5nQmFsYW5jZRABGgwKCF9fbmFtZV9fEAE    at entryFromArgs (/workspace/node_modules/firebase-functions/lib/logger/index.js:134:19)\n    at Object.error (/workspace/node_modules/firebase-functions/lib/logger/index.js:121:11)\n    at httpFunc (/workspace/node_modules/firebase-functions/lib/v2/providers/scheduler.js:72:20)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)",
+  "insertId": "68999e240005b6b4c91dd109",
+
+
+{
+  "textPayload": "Error: 9 FAILED_PRECONDITION: The query requires an index. You can create it here: https://console.firebase.google.com/v1/r/project/sistema-cobranza-92edf/firestore/indexes?create_composite=Clhwcm9qZWN0cy9zaXN0ZW1hLWNvYnJhbnphLTkyZWRmL2RhdGFiYXNlcy8oZGVmYXVsdCkvY29sbGVjdGlvbkdyb3Vwcy9jb250cmFjdHMvaW5kZXhlcy9fEAEaCgoGc3RhdHVzEAEaFAoQcmVtYWluaW5nQmFsYW5jZRABGgwKCF9fbmFtZV9fEAE\n    at entryFromArgs (/workspace/node_modules/firebase-functions/lib/logger/index.js:134:19)\n    at Object.error (/workspace/node_modules/firebase-functions/lib/logger/index.js:121:11)\n    at httpFunc (/workspace/node_modules/firebase-functions/lib/v2/providers/scheduler.js:72:20)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)",
+  "insertId": "68999e240005b6b4c91dd109",
+  "resource": {
+    "type": "cloud_run_revision",
+    "labels": {
+      "service_name": "updatedelinquencystatus",
+      "revision_name": "updatedelinquencystatus-00001-sic",
+      "configuration_name": "updatedelinquencystatus",
+      "project_id": "sistema-cobranza-92edf",
+      "location": "us-central1"
+    }
+  },
+  "timestamp": "2025-08-11T07:39:16.374452Z",
+  "severity": "ERROR",
+  "labels": {
+    "deployment-scheduled": "true",
+    "execution_id": "6sxl87pv6so4",
+    "instanceId": "0069c7a988d3e67ad1a76288799cc18a0d52376b44bef1fcede0f0fa1bcc685bcc2ac24097316c2d67b5bf8fce32ce3155b78127bba7ef59dfb8a0388234fbab7734411536e338dcfc1ee80789b591",
+    "goog-managed-by": "cloudfunctions",
+    "run.googleapis.com/base_image_versions": "us-docker.pkg.dev/serverless-runtimes/google-22-full/runtimes/nodejs22:nodejs22_20250803_22_17_1_RC00",
+    "firebase-functions-hash": "6dc83f16099e4f5fefb7e53c28c51134503a8f37"
+  },
+  "logName": "projects/sistema-cobranza-92edf/logs/run.googleapis.com%2Fstderr",
+  "trace": "projects/sistema-cobranza-92edf/traces/52c34d9e168a084930168525ae6414bc",
+  "receiveTimestamp": "2025-08-11T07:39:16.712414077Z",
+  "spanId": "9679369449545528542",
+  "errorGroups": [
+    {
+      "id": "CPTJ2fj3s5D8zwE"
+    }
+  ]
+}

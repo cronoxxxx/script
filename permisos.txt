@@ -1,0 +1,38 @@
+Paso 5: El Recibo (Cerrando el Círculo)
+Cuando el Cobrador reciba un pago:
+
+Generará un Recibo directamente desde la plataforma.
+
+El sistema calculará automáticamente el saldo restante.
+
+Se capturará la geolocalización del cobro para poder auditar que la visita se realizó en el lugar correcto.
+
+El estado de cuenta del cliente se actualizará en tiempo real para todos en la empresa.
+
+Paso 6: Los Morosos (La Red de Seguridad)
+Programaremos una función automática para que se ejecute todos los días.
+
+Si un cliente se atrasa, el sistema lo marcará con un color (azul, amarillo, rojo) según el tiempo de mora.
+
+Estos clientes aparecerán en el módulo MOROSOS, permitiendo al equipo de cobranza enfocar sus esfuerzos donde más se necesita.
+
+3. Los Roles del Equipo: ¿Quién Hará Qué?
+Administrador Principal: Tendrá el control total. Podrá configurar la empresa, gestionar los roles y permisos, y será el único con la capacidad de editar o eliminar información crítica.( boton donde señalara la cuentas y asiganara a cobrador cuentas por cobrar ) (boton creador de rutas manual o por medio de google mapas ,trazar como si dibujara un espacio donde seria la ruta y poder modificar conforme vallan creciendo las cuenta )
+
+Gerente : tendra el control de la rutas ,clientes ,podra ralizar recibos ,ver los perfiles de todos (menos del administrador principal) podra aprobar los productos pero no podra borrar ni eliminar nada 
+
+Supervisor: Supervisará las operaciones, que le indiquen el administradore y gerente, gestionar las rutas y los equipos de cobranza. que le sean asignados por gerente y administrador principal tambien se le podra signar una ruta cuando un cobrador falte o no haya cobrador en una ruta 
+
+Vendedor: Se enfocará en crear contratos y dar seguimiento a sus ventas y comisiones. Solo tendrá acceso a sus propios clientes.
+
+Cobrador: Usará el módulo RUTA como su herramienta principal para gestionar sus visitas y generar los recibos de pago.
+
+secretario(a): solo podra visualizar plataforma de todos los clientes ver cobranza y filtrar cobranza y ventas podra revisar todo y podra descargar estados de cuenta 
+
+4. La Tecnología que Usaremos: ¿Qué Hay Detrás?
+Firebase (El Cerebro en la Nube): Usaremos esta tecnología de Google como el cerebro y la memoria de todo el sistema. Nos permitirá guardar los datos de forma segura y ejecutar toda la lógica de negocio en tiempo real.
+
+React (La Cara de la Aplicación): Construiremos la interfaz con esta tecnología. Es moderna y rápida, lo que nos permitirá crear una experiencia de usuario fluida y agradable.
+
+5. Conclusión: ¿Por Qué Debemos Construir Este Proyecto?
+Este ERP es un Movimiento estratégico. Al construirlo, vamos a conectar cada parte de nuestro proceso de ventas y cobranza. El resultado será una reducción de errores, un ahorro significativo de tiempo y un equipo más eficiente, ya que cada persona tendrá las herramientas exactas que necesita para tener éxito. Vamos a construir un sistema centralizado e inteligente que nos preparará para el futuro y nos permitirá crecer.
