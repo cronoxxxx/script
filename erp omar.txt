@@ -1,183 +1,117 @@
-PRODUCTS
-
-"JntQ7TupE7aCryBW4ura": {
-            "name": "BANDERA PERSONALIZADA 4M",
-            "reviewedBy": "PSi7htKqhVglxhdnfNYnsaGfO7G3",
-            "status": "rejected",
-            "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABmgAAAQcCAYAAACRVRQmAAAKN2lDQ1BzUkdCIElFQzYxOTY2LTIuMQAAeJydlndUU9kWh8+9N71QkhCKlNBraFICSA29SJEuKjEJEErAkAAiNkRUcERRkaYIMijggKNDkbEiioUBUbHrBBlE1HFwFBuWSWStG",
-            "reviewedAt": "2025-08-02T02:16:25.300000+00:00",
-            "price": 2500,
-            "commissionAmount": 400,
-            "productionCost": 800,
-            "description": "bandera publicitaria personalizada de 4 metros con tubos y base ancla",
-            "createdAt": "2025-08-02T02:16:15.970000+00:00",
-            "commissionPercentage": 16,
-            "createdBy": "PSi7htKqhVglxhdnfNYnsaGfO7G3"
-        }
-------------------
-
-RECEIPTS
-
-"X9PEikmcd1Au5VEfIQGn": {
-            "paymentMethod": "card",
-            "clientId": "EBm4j0oxmWU6GAJIVmcb",
-            "contractId": "7LgaBQFmWDOgDJpsL08I",
-            "amountPaid": 23,
-            "collectorId": "PSi7htKqhVglxhdnfNYnsaGfO7G3",
-            "paymentDate": "2025-08-07T05:29:11.257000+00:00",
-            "geolocation": {
-                "lng": -3.6110336,
-                "lat": 40.4291584
+COMPANY
+"company": {
+        "profile": {
+            "companyName": "King Designs ",
+            "socialLinks": {
+                "instagram": "https://www.instagram.com",
+                "facebook": "https://www.facebook.com"
             },
-            "createdAt": "2025-08-07T05:29:11.094000+00:00"
+            "address": "calle negrete 1262",
+            "updatedBy": "PSi7htKqhVglxhdnfNYnsaGfO7G3",
+            "logoDataUrl": "data:image",           
+            "phone": "6645411484",
+            "email": "administracion@thekingdesing.com",
+            "updatedAt": "2025-08-08T15:36:17.415000+00:00"
         }
-------------------
+    }
 
-USERS
-
-"PSi7htKqhVglxhdnfNYnsaGfO7G3": {
-            "role": "admin",
-            "lastName": "lorenzo",
-            "status": "active",
-            "firstName": "omar",
-            "createdAt": "2025-08-01T05:14:44.140000+00:00",
-            "email": "omardeal115@gmail.com",
-            "uid": "PSi7htKqhVglxhdnfNYnsaGfO7G3"
+CLIENTES
+"qvdsdOSrkQ3cGtqA5ZK4": {
+            "contactName": "Jose papa",
+            "address": {
+                "city": "Madrid",
+                "location": {
+                    "lng": -117.03188285818491,
+                    "lat": 32.507569733752284
+                },
+                "state": "Madrid",
+                "zip": "27099",
+                "street": "calle negrete 124"
+            },
+            "clientOrder": 5,
+            "delinquencyStatus": "on_time",
+            "salespersonId": "PSi7htKqhVglxhdnfNYnsaGfO7G3",
+            "phone": "23232323",
+            "businessName": "Bla",
+            "collectorId": "PSi7htKqhVglxhdnfNYnsaGfO7G3",
+            "createdAt": "2025-08-10T10:32:06.650000+00:00",
+            "email": "juanete@example.com",
+            "clientNumber": "CLI-RKHCJ"
         }
-----------------------
 
-CONTRACTS
-
-"zwS3meCv85FiI800GBcv": {
+CONTRATOS
+"7LgaBQFmWDOgDJpsL08I": {
             "reference": {
-                "name": "gabiS",
-                "phone": "122323",
-                "relationship": "asdsadA"
+                "name": "asdsadasd",
+                "phone": "aaaa",
+                "relationship": "aa"
             },
             "downPayment": 0,
-            "paymentDay": "thursday",
-            "clientId": "lU6poBwnQKPyqHrVh1Ci",
+            "paymentDay": "wednesday",
+            "clientId": "EBm4j0oxmWU6GAJIVmcb",
             "salespersonId": "PSi7htKqhVglxhdnfNYnsaGfO7G3",
             "products": [
                 {
-                    "name": "Mu\u00f1equito",
-                    "productId": "gquGmhECjnkxALJsoQHJ",
+                    "name": "Mu\u00f1eco",
+                    "productId": "ITEyTM1tqi13joWpGZWf",
                     "quantity": 1,
                     "price": 222,
-                    "description": "asdsadsadsad"
-                },
-                {
-                    "name": "asdsadsad",
-                    "productId": "wfLdjzqRgL8vlf0d1hKN",
-                    "quantity": 1,
-                    "price": 3,
-                    "description": "asdasdasdsadasdsad"
+                    "description": "asdasdsadasdasdasdasd"
                 }
             ],
             "signatureDataUrl": "",
-            "remainingBalance": 218.25,
+            "paymentFrequency": "biweekly",
             "startDate": "2025-08-20T22:00:00+00:00",
-            "saleType": "credito",
-            "interestRate": 0,
             "privacyPolicyAccepted": true,
-            "finalAmount": 218.25,
-            "discountPercentage": 3,
-            "idImageUrl": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/4gHYSUNDX1BST0ZJTEUAAQEAAAHIAAAAAAQwAABtbnRyUkdCIFhZWiAH4AABAAEAAAAAAABhY3NwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA9tYAAQAAAADTLQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlkZXNjAAAA8AAAACRyWFlaAAABFAAAABRnWFlaAAABKAAAABRiWFlaAAABPAAAAB",
-            "paymentFrequency": "weekly",
-            "status": "active",
-            "amountPaid": 0,
-            "totalCommissionEarned": 4.5,
+            "interestRate": 0,
+            "discountPercentage": 0,
+            "finalAmount": 222,
+            "saleType": "credito",
+            "idImageUrl": "data:image/jpeg;base64,",
+            "remainingBalance": -5,
+            "status": "completed",
+            "lastPaymentDate": "2025-08-09T09:46:10.334000+00:00",
+            "totalCommissionEarned": 0,
+            "amountPaid": 227,
             "authorizedImagesUrl": [
-                "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/4gHYSUNDX1BST0ZJTEUAAQEAAAHIAAAAAAQwAA"
-            ],
-            "totalAmount": 225,
-            "nextPaymentDate": "2025-08-27T22:00:00+00:00",
-            "createdAt": "2025-08-06T11:48:25.947000+00:00",
+                "data:image/jpeg;base64,"            ],
+            "totalAmount": 222,
+            "nextPaymentDate": "2025-07-05T22:00:00.014000+00:00",
+            "createdAt": "2025-08-06T10:34:11.101000+00:00",
             "geolocation": {
                 "lng": -3.6110336,
                 "lat": 40.4291584
             }
         }
 
----------------------
+PRODUCTOS
+"pP5NJwp1oxiaZH2bLMAu": {
+            "name": "TELA BANDERA 4 M",
+            "profitMargin": 53.4,
+            "status": "draft",
+            "imageUrl": "data:image/png;base64,",
+            "price": 1500,
+            "commissionAmount": 299,
+            "productionCost": 400,
+            "description": "TELA PERSONALIZADA DE 4 METROS ",
+            "createdAt": "2025-08-01T22:11:15.507000+00:00",
+            "commissionPercentage": 20,
+            "createdBy": "PSi7htKqhVglxhdnfNYnsaGfO7G3"
+        }
 
-CLIENTS
-
-"EBm4j0oxmWU6GAJIVmcb": {
-            "contactName": "THE KING DESINGs",
-            "address": {
-                "city": "Madrid",
-                "location": {
-                    "lng": -117.03531608572398,
-                    "lat": 32.51289694860139
-                },
-                "state": "Madrid",
-                "zip": "27099",
-                "street": "1685 Precision Park 122"
-            },
-            "clientOrder": 4,
-            "delinquencyStatus": "on_time",
-            "salespersonId": "PSi7htKqhVglxhdnfNYnsaGfO7G3",
-            "phone": "61998155223",
+RECIBOS
+ "ji5LIudo3doyT3rVCeNH": {
+            "balanceAfter": 196.25,
+            "paymentMethod": "cash",
+            "balanceBefore": 218.25,
+            "contractId": "zwS3meCv85FiI800GBcv",
+            "amountPaid": 22,
+            "clientId": "lU6poBwnQKPyqHrVh1Ci",
             "collectorId": "PSi7htKqhVglxhdnfNYnsaGfO7G3",
-            "businessName": "King Design LLCs",
-            "createdAt": "2025-08-05T18:55:48.541000+00:00",
-            "email": "omardeal@gmail.com",
-            "clientNumber": "CLI-Y3C02"
-        }
-
-------------------
-
-COMPANY
-"profile": {
-            "companyName": "King Designs ",
-            "socialLinks": {
-                "instagram": "https://www.instagram.com",
-                "facebook": "https://www.facebook.com"
+            "paymentDate": "2025-08-09T10:05:18.637000+00:00",
+            "geolocation": {
+                "lng": -3.6034213,
+                "lat": 40.4315865
             },
-            "address": "calle negrete 126",
-            "updatedBy": "PSi7htKqhVglxhdnfNYnsaGfO7G3",
-            "phone": "6645411484",
-            "logoDataUrl": "data:image/jpeg;base64,ppFikVAAAAAAAAAB",
-            "email": "administracion@thekingdesing.com",
-            "updatedAt": "2025-08-07T07:55:39.929000+00:00"
+            "createdAt": "2025-08-09T10:05:18.898000+00:00"
         }
-
-
-https://console.firebase.google.com/v1/r/project/sistema-cobranza-92edf/firestore/indexes?create_composite=Clhwcm9qZWN0cy9zaXN0ZW1hLWNvYnJhbnphLTkyZWRmL2RhdGFiYXNlcy8oZGVmYXVsdCkvY29sbGVjdGlvbkdyb3Vwcy9jb250cmFjdHMvaW5kZXhlcy9fEAEaCgoGc3RhdHVzEAEaFAoQcmVtYWluaW5nQmFsYW5jZRABGgwKCF9fbmFtZV9fEAE    at entryFromArgs (/workspace/node_modules/firebase-functions/lib/logger/index.js:134:19)\n    at Object.error (/workspace/node_modules/firebase-functions/lib/logger/index.js:121:11)\n    at httpFunc (/workspace/node_modules/firebase-functions/lib/v2/providers/scheduler.js:72:20)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)",
-  "insertId": "68999e240005b6b4c91dd109",
-
-
-{
-  "textPayload": "Error: 9 FAILED_PRECONDITION: The query requires an index. You can create it here: https://console.firebase.google.com/v1/r/project/sistema-cobranza-92edf/firestore/indexes?create_composite=Clhwcm9qZWN0cy9zaXN0ZW1hLWNvYnJhbnphLTkyZWRmL2RhdGFiYXNlcy8oZGVmYXVsdCkvY29sbGVjdGlvbkdyb3Vwcy9jb250cmFjdHMvaW5kZXhlcy9fEAEaCgoGc3RhdHVzEAEaFAoQcmVtYWluaW5nQmFsYW5jZRABGgwKCF9fbmFtZV9fEAE\n    at entryFromArgs (/workspace/node_modules/firebase-functions/lib/logger/index.js:134:19)\n    at Object.error (/workspace/node_modules/firebase-functions/lib/logger/index.js:121:11)\n    at httpFunc (/workspace/node_modules/firebase-functions/lib/v2/providers/scheduler.js:72:20)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)",
-  "insertId": "68999e240005b6b4c91dd109",
-  "resource": {
-    "type": "cloud_run_revision",
-    "labels": {
-      "service_name": "updatedelinquencystatus",
-      "revision_name": "updatedelinquencystatus-00001-sic",
-      "configuration_name": "updatedelinquencystatus",
-      "project_id": "sistema-cobranza-92edf",
-      "location": "us-central1"
-    }
-  },
-  "timestamp": "2025-08-11T07:39:16.374452Z",
-  "severity": "ERROR",
-  "labels": {
-    "deployment-scheduled": "true",
-    "execution_id": "6sxl87pv6so4",
-    "instanceId": "0069c7a988d3e67ad1a76288799cc18a0d52376b44bef1fcede0f0fa1bcc685bcc2ac24097316c2d67b5bf8fce32ce3155b78127bba7ef59dfb8a0388234fbab7734411536e338dcfc1ee80789b591",
-    "goog-managed-by": "cloudfunctions",
-    "run.googleapis.com/base_image_versions": "us-docker.pkg.dev/serverless-runtimes/google-22-full/runtimes/nodejs22:nodejs22_20250803_22_17_1_RC00",
-    "firebase-functions-hash": "6dc83f16099e4f5fefb7e53c28c51134503a8f37"
-  },
-  "logName": "projects/sistema-cobranza-92edf/logs/run.googleapis.com%2Fstderr",
-  "trace": "projects/sistema-cobranza-92edf/traces/52c34d9e168a084930168525ae6414bc",
-  "receiveTimestamp": "2025-08-11T07:39:16.712414077Z",
-  "spanId": "9679369449545528542",
-  "errorGroups": [
-    {
-      "id": "CPTJ2fj3s5D8zwE"
-    }
-  ]
-}
