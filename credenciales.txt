@@ -1,0 +1,41 @@
+ADMIN
+------
+Nombre y Apellidos: omar lorenzo
+Correo: omardeal115@gmail.com
+Contraseña: Fares2019
+
+GERENTE
+-------
+Nombre y Apellidos: Gerente A11111
+Correo: gerente@example.com
+Contraseña: gerente123
+
+Cobrador
+--------
+Nombre y Apellidos: Carlos Méndez Ruiz
+Correo: carlos.mendez.cobrador@example.com
+Contraseña: CobR@2025x
+
+Vendedor
+--------
+Nombre y Apellidos: Laura Sánchez Ortega
+Correo: laura.sanchez.vendedor@example.com
+Contraseña: Vent@2025z
+
+Supervisor de Cobranza
+---------------------
+Nombre y Apellidos: Miguel Herrera Campos
+Correo: miguel.herrera.supcobranza@example.com
+Contraseña: SupCob!2025
+
+Supervisor de Ventas
+-------------------
+Nombre y Apellidos: Andrea Torres Morales
+Correo: andrea.torres.supventas@example.com
+Contraseña: SupVent#2025
+
+Secretaria
+----------
+Nombre y Apellidos: Patricia Gómez Fernández
+Correo: patricia.gomez.secretaria@example.com
+Contraseña: SecR@2025y
