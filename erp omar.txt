@@ -36,7 +36,8 @@ CLIENTES
             "collectorId": "PSi7htKqhVglxhdnfNYnsaGfO7G3",
             "createdAt": "2025-08-10T10:32:06.650000+00:00",
             "email": "juanete@example.com",
-            "clientNumber": "CLI-RKHCJ"
+            "clientNumber": "CLI-RKHCJ",
+            "showedOnScreen": true,
         }
 
 CONTRATOS
@@ -81,7 +82,8 @@ CONTRATOS
             "geolocation": {
                 "lng": -3.6110336,
                 "lat": 40.4291584
-            }
+            },
+            "showedOnScreen": true,
         }
 
 PRODUCTOS
@@ -106,6 +108,7 @@ RECIBOS
             "balanceBefore": 218.25,
             "contractId": "zwS3meCv85FiI800GBcv",
             "amountPaid": 22,
+            "showedOnScreen": true,
             "clientId": "lU6poBwnQKPyqHrVh1Ci",
             "collectorId": "PSi7htKqhVglxhdnfNYnsaGfO7G3",
             "paymentDate": "2025-08-09T10:05:18.637000+00:00",
