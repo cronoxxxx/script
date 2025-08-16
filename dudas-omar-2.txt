@@ -1,0 +1,6 @@
+vendedores y cobradores, se filtraran
+
+
+
+en el apartado de enrutamiento, solo los cobradores podran enrutar, los vendedores por lo tanto no tendran acceso verdad?
+en el apartado de cobranza, solo tendran acceso los clientes, y en el apartado de enrutamiento solo los cobradores con sus clientes asignados no?
