@@ -108,7 +108,6 @@ RECIBOS
             "balanceBefore": 218.25,
             "contractId": "zwS3meCv85FiI800GBcv",
             "amountPaid": 22,
-            "showedOnScreen": true,
             "clientId": "lU6poBwnQKPyqHrVh1Ci",
             "collectorId": "PSi7htKqhVglxhdnfNYnsaGfO7G3",
             "paymentDate": "2025-08-09T10:05:18.637000+00:00",

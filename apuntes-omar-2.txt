@@ -43,3 +43,6 @@ SECRETARIA
 - IMPRIMIR ESTADO DE CUENTAS
 - VER LAS CUENTAS DE TODOS
 - NO TOCARÁ NADA
+
+
+Solucionar temas de soft delete cuando se presiona el si eliminar, hacer que el boton de generar, guardar o editar se activen una vez las cosas se hayan rellenado bien
