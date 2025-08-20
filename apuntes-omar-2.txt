@@ -46,3 +46,26 @@ SECRETARIA
 
 
 Solucionar temas de soft delete cuando se presiona el si eliminar, hacer que el boton de generar, guardar o editar se activen una vez las cosas se hayan rellenado bien
+
+
+
+- hacer que al generar contrato un supervisor de cobranza, cogera a partir de los ids de usuarios asignados que tiene, sus clientes y tmb los del supervisor, y su id, por el filtrara por collectorId, sino, si es un supervisor de venta seria por el salespersonid tanto el de el como de sus usuarios
+
+
+
+en la lista de clientes, si el estado es de 3 semanas a mas, se quita y se manda a morosos no?
+
+preguntar sobre el tema del asignar 
+-----------------------------------
+
+enrutar tmb requiere permisos?
+----------------------------------
+vendedor, gerentes, supervisores de ventas, y administrador pueden agregar productos
+entonces los cobradores y supervisores de cobranza no podran ver productos al no poder tener ninguno?
+morosos
+mas historial para el GERENTE como los comentarios y las asignaciones, asi como poder aprobar o rechazar productos
+agregar a cliente con cotizacion y el supervisor de ventas con permisos
+
+
+pregunta redundante: los clientes solo pueden ser agregados por supervisor de venta, y por vendedor a traves de cotizacion no?
+los clientes pueden ser agregados por otros roles aparte de supervisor de ventas y vendedor? siempre se deben crear con cotizacion?
