@@ -58,8 +58,8 @@ en la lista de clientes, si el estado es de 3 semanas a mas, se quita y se manda
 preguntar sobre el tema del asignar 
 ----------------------------------- hecho
 
-enrutar tmb requiere permisos?
----------------------------------- en proceso
+enrutar tmb requiere permisos? no
+---------------------------------- hecho
 vendedor, gerentes, supervisores de ventas, y administrador pueden agregar productos
 entonces los cobradores y supervisores de cobranza no podran ver productos al no poder tener ninguno?
 entonces al no tener ningun producto no podran generar contratos?
@@ -72,7 +72,8 @@ agregar a cliente con cotizacion y el supervisor de ventas con permisos
 pregunta redundante: los clientes solo pueden ser agregados por supervisor de venta, y por vendedor a traves de cotizacion no?
 los clientes pueden ser agregados por otros roles aparte de supervisor de ventas y vendedor? siempre se deben crear con cotizacion?
 
------------------------------------------------------
+-----------------------------------------------------hecho (revisar audio)
 no entendi muy bien, que roles podran generar recibos y se les debe dar autorizacion para generar recibos? y como?
 ---------------------------------------------------
 - cobranza ya esta hecho
+- en recibos solo gerente y supervisor de cobranza tendran que tener permisos para generar un recibo
