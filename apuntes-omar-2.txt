@@ -59,20 +59,20 @@ preguntar sobre el tema del asignar
 ----------------------------------- hecho
 
 enrutar tmb requiere permisos?
-----------------------------------
+---------------------------------- en proceso
 vendedor, gerentes, supervisores de ventas, y administrador pueden agregar productos
 entonces los cobradores y supervisores de cobranza no podran ver productos al no poder tener ninguno?
 entonces al no tener ningun producto no podran generar contratos?
 -------------------------------------
 
 mas historial para el GERENTE como los comentarios y las asignaciones, asi como poder aprobar o rechazar productos
+
+-------------------------------------------------------------------------------hecho
 agregar a cliente con cotizacion y el supervisor de ventas con permisos
-
-
 pregunta redundante: los clientes solo pueden ser agregados por supervisor de venta, y por vendedor a traves de cotizacion no?
 los clientes pueden ser agregados por otros roles aparte de supervisor de ventas y vendedor? siempre se deben crear con cotizacion?
 
-
-completar terminar ahora recibos
-
+-----------------------------------------------------
+no entendi muy bien, que roles podran generar recibos y se les debe dar autorizacion para generar recibos? y como?
+---------------------------------------------------
 - cobranza ya esta hecho
