@@ -56,16 +56,23 @@ Solucionar temas de soft delete cuando se presiona el si eliminar, hacer que el 
 en la lista de clientes, si el estado es de 3 semanas a mas, se quita y se manda a morosos no?
 
 preguntar sobre el tema del asignar 
------------------------------------
+----------------------------------- hecho
 
 enrutar tmb requiere permisos?
 ----------------------------------
 vendedor, gerentes, supervisores de ventas, y administrador pueden agregar productos
 entonces los cobradores y supervisores de cobranza no podran ver productos al no poder tener ninguno?
-morosos
+entonces al no tener ningun producto no podran generar contratos?
+-------------------------------------
+
 mas historial para el GERENTE como los comentarios y las asignaciones, asi como poder aprobar o rechazar productos
 agregar a cliente con cotizacion y el supervisor de ventas con permisos
 
 
 pregunta redundante: los clientes solo pueden ser agregados por supervisor de venta, y por vendedor a traves de cotizacion no?
 los clientes pueden ser agregados por otros roles aparte de supervisor de ventas y vendedor? siempre se deben crear con cotizacion?
+
+
+completar terminar ahora recibos
+
+- cobranza ya esta hecho
