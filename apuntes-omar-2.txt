@@ -78,8 +78,11 @@ no entendi muy bien, que roles podran generar recibos y se les debe dar autoriza
 - cobranza ya esta hecho
 - rutas ya esta hecho
 - morosos ya esta hecho
-- catalogo faltan filtros
+- catalogo ya casi terminaado
 - recibos: cobrador default, admin default, autorizacion de generar recibo y ver recibos, el cobrador podra generar recibo a partir de los contratos de sus clientes asignados
 - filtrar impresion de clientes por estado de cuenta, eso lo tendra la secretaria?
 
 - en conclusion todo lo que jode esta en clientes contratos y recibos
+
+- en clientes ver lo de imprimir estado de cuenta, crear cotizacion al crear cliente, quitar bugs de la tabla y ordenar
+- en recibos solo podra sacar de su usuario(s) asingados, sus contratos el cobrador y el supervisor de cobranza
