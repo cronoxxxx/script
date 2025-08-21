@@ -63,7 +63,7 @@ enrutar tmb requiere permisos? no
 vendedor, gerentes, supervisores de ventas, y administrador pueden agregar productos
 entonces los cobradores y supervisores de cobranza no podran ver productos al no poder tener ninguno?
 entonces al no tener ningun producto no podran generar contratos?
--------------------------------------
+------------------------------------- hecho (revisar audio)
 
 mas historial para el GERENTE como los comentarios y las asignaciones, asi como poder aprobar o rechazar productos
 
@@ -72,8 +72,14 @@ agregar a cliente con cotizacion y el supervisor de ventas con permisos
 pregunta redundante: los clientes solo pueden ser agregados por supervisor de venta, y por vendedor a traves de cotizacion no?
 los clientes pueden ser agregados por otros roles aparte de supervisor de ventas y vendedor? siempre se deben crear con cotizacion?
 
------------------------------------------------------hecho (revisar audio)
+----------------------------------------------------- en proceso
 no entendi muy bien, que roles podran generar recibos y se les debe dar autorizacion para generar recibos? y como?
----------------------------------------------------
+--------------------------------------------------- en proceso
 - cobranza ya esta hecho
-- en recibos solo gerente y supervisor de cobranza tendran que tener permisos para generar un recibo
+- rutas ya esta hecho
+- morosos ya esta hecho
+- catalogo faltan filtros
+- recibos: cobrador default, admin default, autorizacion de generar recibo y ver recibos, el cobrador podra generar recibo a partir de los contratos de sus clientes asignados
+- filtrar impresion de clientes por estado de cuenta, eso lo tendra la secretaria?
+
+- en conclusion todo lo que jode esta en clientes contratos y recibos
