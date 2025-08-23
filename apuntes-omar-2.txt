@@ -90,16 +90,20 @@ no entendi muy bien, que roles podran generar recibos y se les debe dar autoriza
 --DEFAULT: cobrador, administrador (podran hacer todo)
 ---gerentes y supervisores de cobranza veran pero tendran que tener autorizacion para generar recibo
 ---secretarias, vendedores, y supervisores de venta tendra que tener tanto autorizacion para ver recibos como para generarlos, independientes
---alm todos podran ver pero solo podran ver el boton de generar recibo 
+--alm todos podran ver pero solo podran ver el boton de generar recibo
 
 
 APUNTES FINALES
-- Crear filtro de cotizaciones
-- Crear filtro de ventas (recibos)
+- Crear filtro de cotizaciones -- hecho
+- Arreglar filtros de clientes -- hecho
+- Crear filtro de ventas (recibos) -- hecho
 - Crear permisos de generar recibo
 - Crear permisos de generar contrato
-- Dar opcion al usuario a elegir entre crear un contrato a partir de cotizacion o de su nuevo contrato (tanto en contratos como en clientes)
-- Crear impresion de estado de cuenta de cliente
+- poner filtro de que cotizaciones se muestran para generar contratos a ciertos roles
+- Dar opcion al usuario a elegir entre crear un contrato a partir de cotizacion o de su nuevo contrato (tanto en contratos como en clientes) -- hecho
+- Crear impresion de estado de cuenta de cliente -- hecho
+- Crear atributo de propinaa al generar contrato, en contrato y en recibo -- hecho
+- Hacer que el buscador de clientes recibos y contratos -- hecho
 
 
 OTRO:
