@@ -98,8 +98,8 @@ APUNTES FINALES
 - Arreglar filtros de clientes -- hecho
 - Crear filtro de ventas (recibos) -- hecho
 - Crear permisos de generar recibo
-- Crear permisos de generar contrato
-- poner filtro de que cotizaciones se muestran para generar contratos a ciertos roles
+- Crear permisos de generar contrato -- hecho
+- poner filtro de que cotizaciones se muestran para generar contratos a ciertos roles -- hecho
 - Dar opcion al usuario a elegir entre crear un contrato a partir de cotizacion o de su nuevo contrato (tanto en contratos como en clientes) -- hecho
 - Crear impresion de estado de cuenta de cliente -- hecho
 - Crear atributo de propinaa al generar contrato, en contrato y en recibo -- hecho
