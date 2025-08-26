@@ -1,0 +1,102 @@
+
+si quisiera tener usuarios con rol personalizado, que opciones podria tener para tener en checkbox para tener personalizado segun como va el programa? primero hazme una lista, no codees nada
+
+
+## 📦 **Gestión de Productos**
+- ☐ Crear productos
+- ☐ Editar productos propios
+- ☐ Editar todos los productos
+- ☐ Eliminar productos
+- ☐ Aprobar productos pendientes
+- ☐ Rechazar productos
+- ☐ Gestionar precios y costos
+- ☐ Configurar comisiones
+
+## 💰 **Cotizaciones**
+- ☐ Crear cotizaciones
+- ☐ Editar cotizaciones propias
+- ☐ Editar todas las cotizaciones
+- ☐ Eliminar cotizaciones
+- ☐ Ver todas las cotizaciones
+- ☐ Ver solo cotizaciones propias
+- ☐ Ver cotizaciones de todos los usuarios (modo admin)
+- ☐ Convertir cotizaciones a contratos
+
+## 📄 **Contratos**
+- ☐ Crear contratos
+- ☐ Editar contratos propios
+- ☐ Editar todos los contratos
+- ☐ Eliminar contratos
+- ☐ Ver todos los contratos
+- ☐ Ver solo contratos propios
+- ☐ Ver contratos de usuarios (modo admin)
+- ☐ Generar recibo desde contrato
+
+## 👥 **Gestión de Clientes**
+- ☐ Crear clientes
+- ☐ Editar información de clientes
+- ☐ Eliminar clientes
+- ☐ Ver todos los clientes
+- ☐ Ver solo clientes propios
+- ☐ Ver clientes del equipo
+- ☐ Tener mis propios clientes asignados como supervisor de cobranza (filtro de seleccionar usuario automatico) (se descactivan los modo admin)
+. ☐ Tener mis propios clientes asignados como supervisor de ventas (filtro de seleccionar usuario automatico) (se descactivan los modo admin) 
+- ☐ Asignar cobradores a clientes
+- ☐ Gestionar estado de morosidad
+
+## 👤 **Gestión de Vendedores**
+- ☐ Ver lista de vendedores
+- ☐ Ver rendimiento de vendedores
+- ☐ Gestionar comisiones
+
+## 💳 **Cobranza**
+- ☐ Ver todas las cuentas clientes
+- ☐ Ver solo clientes propios
+- ☐ Ver clientes de los usuarios (como admin)
+
+## 🗺️ **Rutas de Cobranza**
+- ☐ Crear rutas de cobranza
+- ☐ Ver todas las rutas  (modo admin)
+- ☐ Ver solo rutas propias
+- ☐ Seguimiento GPS de cobradores
+- ☐ Registrar pagos al generar recibo
+
+## 🧾 **Recibos**
+- ☐ Generar recibos
+- ☐ Editar recibos
+- ☐ Ver todos los recibos  (modo admin)
+- ☐ Ver solo recibos propios
+- ☐ Imprimir recibos
+
+
+## 😞 **Gestión de Morosos**
+- ☐ Ver lista de clientes morosos
+- ☐ Ver solo morosos propios
+- ☐ Ver morosos de los usuarios  (modo admin)
+
+## ⚙️ **Configuración del Sistema**
+- ☐ Configuración global del sistema
+- ☐ Gestión de usuarios y roles
+- ☐ Aprobación de nuevos usuarios
+- ☐ Asignación de roles unicos
+. ☐ Asignacion de roles multiples
+- ☐ Configuración de la empresa
+- ☐ Gestión del perfil corporativo
+- ☐ Configuración de logo y datos
+- ☐ Acceso a papelera (recuperar eliminados)
+- ☐ Eliminación permanente
+- ☐ Auditoría de actividades de gerentes
+
+## 🔐 Permisos Temporales
+- ☐ Solicitar permisos temporales de edición
+- ☐ Solicitar permisos temporales de eliminación
+- ☐ Solicitar permisos para generar contratos
+- ☐ Solicitar permisos para generar recibos
+- ☐ Otorgar permisos temporales a otros
+- ☐ Ver actividades de gerentes con permisos temporales
+
+
+
+
+Esta lista te permitiría crear un sistema de roles completamente personalizable donde cada usuario puede tener una combinación única de permisos según las necesidades específicas de tu organización.
+        
