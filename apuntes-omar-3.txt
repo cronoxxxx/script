@@ -1,8 +1,8 @@
 Apuntes cambios:
 
-- En cotizaciones hacer un descargable, con imagenes de los productos cuanto va a ser, por medio de PDF
-- El catalogo va a ser uno general, de todos los productos que todos suban, todos podran ver, para todos los filtros de todos los productos, mis productos (menos secretaria), y seleccionar usuarios
-- Al compartir catalogo agregar un buscador tmb con los mismos filtros menos el de mis productos
+- En cotizaciones hacer un descargable, con imagenes de los productos cuanto va a ser, por medio de PDF (hecho)
+- El catalogo va a ser uno general, de todos los productos que todos suban, todos podran ver, para todos los filtros de todos los productos, mis productos (menos secretaria), y seleccionar usuarios (casi hecho)
+- Al compartir catalogo agregar un buscador tmb con los mismos filtros menos el de mis productos (casi hecho)
 - En cobranza si el gerente o admin ya asigno a una cuenta, que si por equivocacion vuelve a asignar una cuenta a otro o al mismo cobrador, salga una alerta de que este cliente ya fue asignado estas seguro de re asignar? o algo asi y ahi ponga si o no
 - En ruta poner en los tres puntitos el generar recibo y el generar estado de cuenta, tambien la opcion de ver mapa del cliente
 ----
@@ -12,7 +12,7 @@ Apuntes cambios:
 ---
 ?- Buscador de comisiones por cliente, boton para ver comisiones pagadas, si un vendedor tiene 300 dolares de comision, pagarselas y subir la imagen del recibo de la vez que se le pago y poner una opcion desplegable para poner comisiones pagadas, poner un menu desplegable que diga comisiones pagadas no pagadas y eso, comisiones quitadas, y eso mismo hacer tmb para propina, y tmb poner la propina en el impreso del recibo
 ----
-- Agregar buscador de clientes a cotizaciones y contratos, en cotizaciones tmb por numero de identificacion de contrato
+- Agregar buscador de clientes a cotizaciones y contratos, en cotizaciones tmb por numero de identificacion de contrato (hecho)
 - Enviar en pdf, no en link el contrato
 
 ------
