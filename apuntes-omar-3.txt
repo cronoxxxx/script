@@ -4,18 +4,19 @@ Apuntes cambios:
 - El catalogo va a ser uno general, de todos los productos que todos suban, todos podran ver, para todos los filtros de todos los productos, mis productos (menos secretaria), y seleccionar usuarios (hecho)
 - Al compartir catalogo agregar un buscador tmb con los mismos filtros menos el de mis productos (hecho)
 - En cobranza si el gerente o admin ya asigno a una cuenta, que si por equivocacion vuelve a asignar una cuenta a otro o al mismo cobrador, salga una alerta de que este cliente ya fue asignado estas seguro de re asignar? o algo asi y ahi ponga si o no (hecho)
-- En ruta poner en los tres puntitos el generar recibo y el generar estado de cuenta, tambien la opcion de ver mapa del cliente
-- Al imprimir el recibo tmb se muestre la propina pero que no vaya en el total
+- En ruta poner en los tres puntitos el generar recibo y el generar estado de cuenta, tambien la opcion de ver mapa del cliente (hecho)
+- Al imprimir el recibo tmb se muestre la propina pero que no vaya en el total (hecho y mejorado)
+- Para agregar clientes y productos, el supervisor de ventas tendra que tener permiso, pero en general el admin gerente y vendedor podra nagregar por defecto (hecho)
+- Cada permiso tendra su tiempo individual (hecho)
+- Puede haber agregado de productos x1 x2 x3 sin tener que traerlo individualmente, una vez traido el producto no se podra traer mas para que asi el usuario pueda aumentarlo (hecho)
 ----
-? Decirle si en paso 3 tmb va a querer que tenga los 3 puntitos ya que dijiste en el audio que no lo puedes seleccionar en el paso 3?
+? Decirle si en paso 3 tmb va a querer que tenga los 3 puntitos ya que dijiste en el audio que no lo puedes seleccionar en el paso 3? Si (hecho)
 ----
 - Que haya un rol combinado, usuario que pueda tener mas roles, algo mas como agregar rol, rempleazar el rol por un array de roles
 ---
 ?- Buscador de comisiones por cliente, boton para ver comisiones pagadas, si un vendedor tiene 300 dolares de comision, pagarselas y subir la imagen del recibo de la vez que se le pago y poner una opcion desplegable para poner comisiones pagadas, poner un menu desplegable que diga comisiones pagadas no pagadas y eso, comisiones quitadas, y eso mismo hacer tmb para propina, y tmb poner la propina en el impreso del recibo
 ----
 - Agregar buscador de clientes a cotizaciones y contratos, en cotizaciones tmb por numero de identificacion de contrato (hecho)
-- Enviar en pdf, no en link el contrato
-
 ------
 + CLONAR CODIGO -- HABLAR DE ESO CON EL -- TUTORIALES
 -------
