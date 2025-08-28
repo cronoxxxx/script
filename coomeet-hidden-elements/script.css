@@ -1,6 +1,11 @@
 @-moz-document domain("coomeet.com") {
-    
     .info-panel__invite-bonus{
+        display: none !important;
+    }
+    .chat-area .user-profile .user-profile-link {
+        display: none !important;
+    }
+    .chat-area .user-profile .profile-settings__menu {
         display: none !important;
     }
 }
