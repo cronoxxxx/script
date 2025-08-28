@@ -1,0 +1,655 @@
+Plataforma ERP Y CRM con Inteligencia Artificial para Ventas,
+
+producción, costura ,reparto , generación de cotizaciones ,gastos ,ingresos ,comisiones
+
+, utilidad, inventario CON PANEL DE ADMINISTRADOR  dividido en dos sucursales con diferentes  precios y productos, vendedores, supervisores ,con
+
+el mismo departamento de costura y producción donde por medio de una pestaña o
+
+boto podrá cambiar de una sucursal a otra (cada sucursal tendrá su propia
+
+comisionn sus propios precios ,sus propios productos ,sus propia utilidad ,sus
+
+propios ingresos,comisiones e inventario el rol    de gerente y el rol de administrador podrán
+
+agregar las guias o tracking number a cada vendedor por medio de una imagen  que tenga inicio de sesión con correo
+
+electrónico y contraseña al iniciar sesión (Los nuevos usuarios se registrarán
+
+y quedarán en un estado "pendiente" sin acceso a ninguna función,
+
+hasta que un Administrador les asigne un rol y active su cuenta.)
+
+ 
+
+Contará con un sistema de roles de usuario con diferentes
+
+niveles de autorización, gestionados por un Administrador Principal.
+
+ 
+
+Roles de Usuario
+
+La plataforma incluirá los siguientes roles predefinidos,
+
+con la opción de agregar nuevos roles en el futuro para mayor personalización:
+
+ 
+
+Administrador Principal: Control total de la plataforma,
+
+incluyendo la gestión de usuarios, roles, accesos, restricción de funciones,
+
+adición de imágenes de perfil para todos los roles, y la única capacidad para
+
+borrar información.
+
+ 
+
+Gerente: Acceso y control definidos por el Administrador
+
+Principal, con responsabilidades de gestión.
+
+ 
+
+Supervisor: Podrá gestionar a los vendedores a su cargo,
+
+asignar y reasignar cuentas, y ver solo la información relevante a sus equipos
+
+y rutas asignadas. También podrá tener una ruta asignada si no hay cobradores
+
+disponibles.
+
+ 
+
+Vendedor: Tendrá acceso a sus propias ventas y clientes, sin
+
+visibilidad de la información de otros vendedores. Y podrá generar sus recibos
+
+
+
+
+
+producción tela : este rol de producción podrán subir la producción por medio
+
+de imagen(es) jpg o png ( que cuando se consulte se podrá dar click ala imagen
+
+para verla en grande )donde se guardara , en forma de fecha que se dira producción
+
+y vendrá en listada por fechas(tipo carpetas )   donde se
+
+dara click y abrirá la producción por medio de una lista y después tendremos un
+
+unas casillas rellenables para palomear  a lado (donde se podrá palomear con una paloma) que diga lo que llego  ,lo que no llego y lo que llego incompleto  y tendrá un campo donde  se podrá poner por ejemplo llego pero falta lateral
+
+o falta pared grande o llego pero cortado o simplemente no llego
+
+
+
+
+
+costurero : el rol costurero después de que palomear se le va ir lo que si
+
+llego a su panel que dira costura donde tendrá las imágenes y donde  podra abrirlas con un click y ver con detalle
+
+el diseño y conforme valla teniendo los productos hechos se van air palomeando y
+
+auntomaticamnete se podrán enuna pestaña que dira listo , pendiente y entrega
+
+cuando llege el repartidor el costurero palomeara lo que le esta entregando al
+
+repartidor y en su panel saldrá entregado al repartidor que le entregué o
+
+asignado  en ese momento
+
+
+
+
+
+producción otros :aquí se pondrán todos los productos que no sean tela el
+
+gerente los mandara los manadar a producción  y el repartidor los palomera cuando recoja con
+
+los proveedores
+
+
+
+
+
+Repartidor: Acceso a su ruta asignada y a los clientes dentro de ella para
+
+entrega y podra recoger producción tela  a
+
+costureros y   producción otros palomeando tambien lo que están
+
+recibiendo
+
+
+
+ 
+
+Secretaria: Podrá asistir en las labores de diversos roles,
+
+con acceso a la información que le sea asignada.
+
+
+
+
+
+gestor : el gestor será gestor de cobranza o cobrador se encargara de cobrar la
+
+cuentas a credito
+
+ 
+
+Rol Personalizable: Un rol flexible que permitirá combinar
+
+varias funciones y permisos según las necesidades.
+
+ 
+
+Panel de Navegación
+
+La plataforma contará con un panel de navegación en el lado
+
+izquierdo con los siguientes módulos:
+
+ 
+
+DASHBOARD:
+
+ 
+
+CATÁLOGO:
+
+ 
+
+COTIZACIONES:
+
+ 
+
+CLIENTES:
+
+ 
+
+VENDEDORES:
+
+ 
+
+Costura :
+
+ 
+
+RECIBOS:
+
+ 
+
+Producción tela :
+
+
+
+
+
+Producción otros :
+
+ 
+
+Reposiciones :
+
+COBRADOR AVISA QUE UN PRODUCTO ESTA MAL
+
+
+
+cobranza:
+
+ 
+
+CONFIGURACIÓN:
+
+ 
+
+Descripción de los Módulos
+
+DASHBOARD
+
+Este módulo presentará un resumen visual de la actividad de
+
+la empresa mediante gráficas filtrables por día, semana, mes, año o intervalo
+
+de fechas. Incluirá recuadros informativos para:
+
+ 
+
+Ventas de Hoy: Total de ventas realizadas en el día.
+
+ 
+
+Cuentas por Cobrar: monto de pendiente por cobrar
+
+ 
+
+Ventas  parciales : pagos
+
+entrantes por dia
+
+
+
+
+
+últimos clientes vendidos
+
+ 
+
+Todos los recuadros de información serán filtrables por día,
+
+semana, mes, año o intervalo de fechas.
+
+ 
+
+CATÁLOGO
+
+Este módulo alojará todos los productos con su imagen,
+
+precio y descripción, y un código de producto único.
+
+ 
+
+Agregar Productos: Un botón dedicado permitirá añadir nuevos
+
+productos.
+
+ 
+
+Control de Precios (Administrador Principal): Solo el
+
+Administrador Principal tendrá un espacio para ingresar el precio de
+
+producción, ganancia y precio al público para calcular la rentabilidad y poner
+
+la comisión de cada vendedor
+
+ 
+
+Autorización de Productos: Cualquier rol podrá agregar
+
+productos, pero únicamente los roles de Gerente y Administrador Principal
+
+podrán autorizarlos. Para otros roles, los productos agregados aparecerán en un
+
+estado de "espera de autorización" antes de poder ser incluidos en
+
+contratos o recibos.
+
+
+
+
+
+tendrá un  botón compartir catálogo donde
+
+se compartira catalogo para los clientes  
+
+ 
+
+COTIZACIONES
+
+Este módulo funcionará de manera similar a Quickbooks para
+
+la elaboración de cotizaciones  que se podrán
+
+convertir en invoice(recibos ) y poder editar si el cliento ya pago y cuanto
+
+pago si fue anticipo parcial o pago total
+
+ 
+
+Información de la Empresa: Logo, dirección, fecha, hora y
+
+número de orden.
+
+ 
+
+Datos del Cliente: Campos rellenables para el nombre y
+
+dirección del negocio, nombre y dirección del cliente, teléfono del negocio y
+
+teléfono del cliente. Los datos se podrán precargar si el cliente ya ha
+
+realizado compras previas.
+
+ 
+
+Productos: Se precargarán automáticamente del Catálogo,
+
+permitiendo seleccionar la cantidad. La información de imagen y descripción se
+
+vinculará directamente al Catálogo. El total se calculará automáticamente.
+
+ 
+
+Detalles Financieros: Campos rellenables para descuento (en
+
+porcentaje) y anticipo. El total final se calculará automáticamente.
+
+ 
+
+Plan de Pagos: Opción para seleccionar pago total o pago
+
+parcial con un campo de cuanto pago y calculara el porcentaje del pago
+
+ 
+
+Método de Pago: Selección entre transferencia, efectivo ,
+
+tarjeta o zelle.
+
+
+ 
+
+Imágenes del Cliente: Apartado para cargar pequeñas imágenes
+
+autorizadas por el cliente (opcional).
+
+Políticas de Privacidad: Un campo para incluir las políticas
+
+de privacidad.
+
+ 
+
+Opciones de Compartir: Botones para enviar por WhatsApp,
+
+correo electrónico, imprimir (a la impresora conectada al dispositivo),
+
+compartir el contrato.
+
+ 
+
+Descarga de Archivos: Botón para descargar el contrato en
+
+formato PDF, PNG o JPG.
+
+ 
+
+Información de Contacto Adicional: Número de teléfono,
+
+correo electrónico, nombre del vendedor, número de teléfono del vendedor y una
+
+foto del vendedor con su correo electrónico.
+
+ 
+
+Detalles Adicionales:
+
+ 
+
+Descuentos: Campo para porcentaje si aplica.
+
+ 
+
+Envío: Campo para cantidad si aplica.
+
+ 
+
+tax: Campo para porcentaje si aplica.
+
+ 
+
+Ocultar Campos Vacíos: Si estos campos (descuentos, envío, tax)
+
+no se llenan, no deben aparecer en el contrato final.
+
+ 
+
+Persona de Referencia: Se debe agregar un campo para una
+
+persona de referencia con su número de teléfono.
+
+ 
+
+CLIENTES
+
+Este módulo mostrará una lista de todos los clientes, con un
+
+buscador de clientes. Para cada cliente, se visualizará:
+
+ 
+
+Si cliente ya pago o esta pendiente de pago
+
+ 
+
+Opción para ver el contrato de compra (haciendo clic).
+
+
+
+
+
+opción par ver guía también y mensaje no hay guía si no se ha subido aun o
+
+mensaje subir guía
+
+ 
+
+Restricción de Edición: Solo el Administrador Principal
+
+podrá hacer cambios o borrar información de los clientes.
+
+ 
+
+Estado de Cuenta: Opción para generar estados de cuenta de
+
+los clientes.
+
+ 
+
+Contacto Directo: Enlaces para enviar mensajes por WhatsApp
+
+y realizar llamadas al teléfono principal del cliente.
+
+ 
+
+ 
+
+ 
+
+VENDEDORES
+
+Este módulo permitirá agregar nuevos vendedores y visualizar
+
+su desempeño:
+
+ 
+
+Rendimiento de Ventas: Mostrará las ventas por día, semana,
+
+mes, año e intervalos de tiempo.
+
+ 
+
+Filtros de Desempeño: Permite filtrar por ventas totales,
+
+cobranza realizada y cobranza pendiente.
+
+ 
+
+Análisis por Vendedor: Opción para seleccionar un vendedor y
+
+ver sus ventas, incluyendo un mapa de sus ventas con la capacidad de ampliar y
+
+visualizar las zonas de mayor actividad.
+
+ 
+
+COBRANZA
+
+En este módulo se gestionarán  cobranza por medio de zonas:
+
+ 
+
+Asignación de Rutas: Se podrán agregar zonas de cobranza y
+
+asignarlas a cobradores o supervisores. Hasta dos personas podrán tener las
+
+mismas cuentas asignadas (además del Administrador Principal y el Gerente).
+
+ 
+
+Gestión de Cobradores: Se podrán agregar cobradores
+
+directamente desde este módulo.
+
+ 
+
+Reporte de Cobranza Diaria: Mostrará la cobranza diaria de
+
+cada cobrador.
+
+ 
+
+Optimización de Rutas (IA): La IA ayudará a cobradores y
+
+supervisores a planificar sus rutas de cobro, desde la cuenta más cercana hasta
+
+la más lejana, o según las indicaciones del usuario.
+
+ 
+
+Reasignación de Días de Cobro: Cobradores o supervisores
+
+podrán reasignar los días de cobro de un cliente (ej. si el cliente no se
+
+encuentra o solicita otro día/semana), con un campo para especificar el motivo.
+
+ 
+
+RECIBOS (HECHO)
+
+Este módulo permitirá la creación de recibos de pago, con un
+
+formato tipo Quickbooks:
+
+ 
+
+Información del Recibo: Logo de la compañía, dirección,
+
+teléfono, nombre del vendedor, nombre del cobrador, fecha.
+
+ 
+
+Detalle del Pago: Monto pagado, monto pendiente antes del
+
+pago, monto restante después del pago actual y fecha del próximo pago.
+
+ 
+
+Estado del Pago: Si es el último pago, mostrará
+
+"PAGADO" en grande. Si es el penúltimo pago, indicará "PRÓXIMO
+
+PAGO SERÁ EL ÚLTIMO".
+
+ 
+
+ 
+
+Método de Pago: Opción para seleccionar si el pago fue por zelle
+
+. transferencia, efectivo o tarjeta.
+
+ 
+
+RUTA (HECHO)
+
+En este módulo, los cobradores podrán iniciar sus cobros
+
+ 
+
+Listado de Cuentas: Mostrará las cuentas por cobrar
+
+listadas,
+
+ 
+
+Generación de Recibos: Acceso directo para generar recibos a
+
+los clientes mientras avanzan en sus cuentas.
+
+ 
+
+Información del Cliente en Ruta: Acceso rápido a toda la
+
+información del contrato del cliente y sus estados de cuenta.
+
+ 
+
+Contacto Rápido: Botones para llamar directamente y
+
+contactar por WhatsApp al teléfono principal del cliente con un solo clic.
+
+ 
+
+ 
+
+CONFIGURACIÓN
+
+Este módulo permitirá personalizar la plataforma:
+
+ 
+
+Información de la Compañía: Cargar el logo de la compañía,
+
+dirección, teléfono, redes sociales.
+
+ 
+
+Gestión de Roles: Asignar roles a nuevos usuarios.
+
+ 
+
+Creación de Nuevos Roles: Opción para agregar un nuevo rol
+
+si es necesario.
+
+ 
+
+Consideraciones Adicionales
+
+Interfaz de Usuario (UI) / Experiencia de Usuario (UX): Es
+
+crucial que la plataforma sea intuitiva y fácil de usar para todos los roles,
+
+con un diseño limpio y accesible.
+
+ 
+
+Seguridad: Implementar medidas de seguridad robustas para la
+
+protección de datos sensibles de clientes y la información financiera de la
+
+empresa.
+
+ 
+
+Escalabilidad: La arquitectura de la plataforma debe ser
+
+diseñada para permitir el crecimiento futuro en usuarios, datos y
+
+funcionalidades.
+
+ 
+
+Integración de IA: Definir claramente cómo la IA contribuirá
+
+específicamente en cada proceso (por ejemplo, optimización de rutas,
+
+sugerencias en ventas, análisis de crédito, predicción de morosidad).
+
+ 
+
+Notificaciones: Considerar un sistema de notificaciones para
+
+pagos próximos, morosidad, productos autorizados, etc.
+
+INGRESOS Y GASTOS TMB -- FAMILAR EMPIEZO
+
+TODO LO QUE VAYA A INGRESARSE DE LA COBRANZA EN INGRESOS CON PROPINA Y comisiones
+TODO LO QUE SE VAYA A GASTAR EN TEMAS DE QUE EL COBRADOR RECORRA Y DEMAS
