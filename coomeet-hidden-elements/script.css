@@ -1,0 +1,6 @@
+@-moz-document domain("coomeet.com") {
+    
+    .info-panel__invite-bonus{
+        display: none !important;
+    }
+}
