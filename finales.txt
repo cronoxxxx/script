@@ -122,7 +122,7 @@ entrega y podra recoger producción tela  a
 
 costureros y   producción otros palomeando tambien lo que están
 
-recibiendo
+recibiendo (AUN)
 
 
 
@@ -130,7 +130,7 @@ recibiendo
 
 Secretaria: Podrá asistir en las labores de diversos roles,
 
-con acceso a la información que le sea asignada.
+con acceso a la información que le sea asignada. (QUE DESCARGUE LOS PDFS)
 
 
 
@@ -156,61 +156,61 @@ izquierdo con los siguientes módulos:
 
  
 
-DASHBOARD:
+DASHBOARD (HECHO):
 
  
 
-CATÁLOGO:
+CATÁLOGO (HECHO):
 
  
 
-COTIZACIONES:
+COTIZACIONES (HECHO):
 
  
 
-CLIENTES:
+CLIENTES (HECHO):
 
  
 
-VENDEDORES:
+VENDEDORES (HECHO):
 
  
 
-Costura :
+Costura (AUN) :
 
  
 
-RECIBOS:
+RECIBOS (HECHO):
 
  
 
-Producción tela :
+Producción tela (AUN) :
 
 
 
 
 
-Producción otros :
+Producción otros (AUN) :
 
  
 
-Reposiciones :
+Reposiciones (AUN) :
 
 COBRADOR AVISA QUE UN PRODUCTO ESTA MAL
 
 
 
-cobranza:
+cobranza (HECHO) :
 
  
 
-CONFIGURACIÓN:
+CONFIGURACIÓN (HECHO) :
 
  
 
 Descripción de los Módulos
 
-DASHBOARD
+DASHBOARD (HECHO)
 
 Este módulo presentará un resumen visual de la actividad de
 
@@ -246,7 +246,7 @@ semana, mes, año o intervalo de fechas.
 
  
 
-CATÁLOGO
+CATÁLOGO (HECHO)
 
 Este módulo alojará todos los productos con su imagen,
 
@@ -290,7 +290,7 @@ se compartira catalogo para los clientes  
 
  
 
-COTIZACIONES
+COTIZACIONES (HECHO)
 
 Este módulo funcionará de manera similar a Quickbooks para
 
@@ -405,7 +405,7 @@ persona de referencia con su número de teléfono.
 
  
 
-CLIENTES
+CLIENTES (HECHO)
 
 Este módulo mostrará una lista de todos los clientes, con un
 
@@ -467,7 +467,7 @@ mes, año e intervalos de tiempo.
 
 Filtros de Desempeño: Permite filtrar por ventas totales,
 
-cobranza realizada y cobranza pendiente.
+cobranza realizada
 
  
 
@@ -475,7 +475,7 @@ Análisis por Vendedor: Opción para seleccionar un vendedor y
 
 ver sus ventas, incluyendo un mapa de sus ventas con la capacidad de ampliar y
 
-visualizar las zonas de mayor actividad.
+visualizar las zonas de mayor actividad. (f)
 
  
 
@@ -501,7 +501,7 @@ directamente desde este módulo.
 
 Reporte de Cobranza Diaria: Mostrará la cobranza diaria de
 
-cada cobrador.
+cada cobrador. (?)
 
  
 
@@ -517,7 +517,7 @@ Reasignación de Días de Cobro: Cobradores o supervisores
 
 podrán reasignar los días de cobro de un cliente (ej. si el cliente no se
 
-encuentra o solicita otro día/semana), con un campo para especificar el motivo.
+encuentra o solicita otro día/semana), con un campo para especificar el motivo. (?)
 
  
 
