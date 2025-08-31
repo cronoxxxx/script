@@ -26,7 +26,7 @@ Contará con un sistema de roles de usuario con diferentes
 
 niveles de autorización, gestionados por un Administrador Principal.
 
- 
+ -----------------------------------------------------------------------------------
 
 Roles de Usuario
 
@@ -42,13 +42,13 @@ incluyendo la gestión de usuarios, roles, accesos, restricción de funciones,
 
 adición de imágenes de perfil para todos los roles, y la única capacidad para
 
-borrar información.
+borrar información. (hecho)
 
  
 
 Gerente: Acceso y control definidos por el Administrador
 
-Principal, con responsabilidades de gestión.
+Principal, con responsabilidades de gestión.(hecho)
 
  
 
@@ -58,14 +58,14 @@ asignar y reasignar cuentas, y ver solo la información relevante a sus equipos
 
 y rutas asignadas. También podrá tener una ruta asignada si no hay cobradores
 
-disponibles.
+disponibles.(hecho)
 
  
 
 Vendedor: Tendrá acceso a sus propias ventas y clientes, sin
 
 visibilidad de la información de otros vendedores. Y podrá generar sus recibos
-
+(hecho)
 
 
 
@@ -589,7 +589,7 @@ contactar por WhatsApp al teléfono principal del cliente con un solo clic.
 
  
 
-CONFIGURACIÓN
+CONFIGURACIÓN (hecho)
 
 Este módulo permitirá personalizar la plataforma:
 
@@ -608,32 +608,6 @@ Gestión de Roles: Asignar roles a nuevos usuarios.
 Creación de Nuevos Roles: Opción para agregar un nuevo rol
 
 si es necesario.
-
- 
-
-Consideraciones Adicionales
-
-Interfaz de Usuario (UI) / Experiencia de Usuario (UX): Es
-
-crucial que la plataforma sea intuitiva y fácil de usar para todos los roles,
-
-con un diseño limpio y accesible.
-
- 
-
-Seguridad: Implementar medidas de seguridad robustas para la
-
-protección de datos sensibles de clientes y la información financiera de la
-
-empresa.
-
- 
-
-Escalabilidad: La arquitectura de la plataforma debe ser
-
-diseñada para permitir el crecimiento futuro en usuarios, datos y
-
-funcionalidades.
 
  
 
