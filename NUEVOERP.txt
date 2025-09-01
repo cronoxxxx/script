@@ -68,7 +68,7 @@ visibilidad de la información de otros vendedores. Y podrá generar sus recibos
 (hecho)
 
 
-
+-----------------------------------------------------------
 
 producción tela : este rol de producción podrán subir la producción por medio
 
@@ -124,7 +124,7 @@ costureros y   producción otros palomeando tambien lo que están
 
 recibiendo (AUN)
 
-
+---------------------------------------------
 
  
 
@@ -139,12 +139,6 @@ con acceso a la información que le sea asignada. (QUE DESCARGUE LOS PDFS)
 gestor : el gestor será gestor de cobranza o cobrador se encargara de cobrar la
 
 cuentas a credito
-
- 
-
-Rol Personalizable: Un rol flexible que permitirá combinar
-
-varias funciones y permisos según las necesidades.
 
  
 
@@ -175,7 +169,7 @@ CLIENTES (HECHO):
 VENDEDORES (HECHO):
 
  
-
+----------------------------------------
 Costura (AUN) :
 
  
@@ -198,7 +192,7 @@ Reposiciones (AUN) :
 
 COBRADOR AVISA QUE UN PRODUCTO ESTA MAL
 
-
+------------------------------------------
 
 cobranza (HECHO) :
 
