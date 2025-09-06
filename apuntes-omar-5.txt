@@ -1,0 +1,16 @@
+INGRESOS Y GASTOS TMB -- FAMILAR EMPIEZO
+
+TODO LO QUE VAYA A INGRESARSE DE LA COBRANZA EN INGRESOS CON PROPINA Y comisiones
+TODO LO QUE SE VAYA A GASTAR EN TEMAS DE QUE EL COBRADOR RECORRA Y DEMAS
+
+
+INVENTARIO: Agregar productos y piezas (Solo podran acceder admin y gerentes)
+
+Estara conectado con contratos ya que al generarlos se va a poner la cantidad dada al cliente, y al crear el contrato solo podra ver los productos disponibles en el inventario, no con el showedScreen, lo mismo tmb en la cotizacion
+al crear con eoss productos se descuentan esos productos del inventario, habra agregar producto (los que estan con showedScreen true), de los productos agregados aumentar su cantidad y poder enviarlos a la papelera (showedOnScreen false)
+el gerente debera tener permisos para acceder a estas 3 funciones
+
+
+dinero a recibir = cantidad cobrada - comision % - gastos compañia
+dinero a pagqar = comision % - faltante  - gastos cobrador
+
