@@ -52,4 +52,11 @@ PRODUCCION TELA: Solo veran rol de costura, de tela y repartidor, y administrado
 - tendran gastos todos ellos
 
 
+reposiciones : usuarios de cobranza y venta
+
+productos que llegaron mal
+
+
+
+
 
