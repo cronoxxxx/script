@@ -14,3 +14,42 @@ el gerente debera tener permisos para acceder a estas 3 funciones
 dinero a recibir = cantidad cobrada - comision % - gastos compañia
 dinero a pagqar = comision % - faltante  - gastos cobrador
 
+
+
+
+PARA MAÑANA
+
+
+-- inventario no mandar a la papelera sino a rejected
+resolver cotizaciones de no poner status deleted
+no editar atributos como descripcion nombre y precio
+aunque se borre del inventario en vendedores con la suma total hacer un aproximado con los productos que tiene conectandolos con su productId
+resolver pdf de cotizaciones
+resolver imagenes
+al actualizar nombre de catalogo conectar y actualizar nombre de inventario
+para productos no habra filtro de nada
+permisos para el gerente para eliminar y actualizar inventario
+
+
+
+gastos
+hacer para vendedores directamente de los no acumulados transferencia de contratos completados, sino, se pondra aparte
+dividir dos pestañas para el resto gasto y transferencia
+
+
+- actualizar cotizaciones
+
+PONER TODO EN PESOS MEXICANOS
+--------------------------------------------------
+
+SEGUNDA VERSION
+
+PASADO MAÑANA
+PRODUCCION TELA: Solo veran rol de costura, de tela y repartidor, y administrador y gerente van a ver esos roles
+- rol de tela solo vera su apartado, produccion otros y costura
+- rol de costura podria ver costura, produccion tela y repartidor
+- rol de repartidor podra ver produccion tela costura y otros
+- tendran gastos todos ellos
+
+
+
