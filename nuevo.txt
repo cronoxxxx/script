@@ -1,0 +1,19 @@
+reventa
+morado por guinda y fondo mostaza
+mex
+morado por rojo y fondo verde
+usa
+morado por ojo y fondo azul
+
+
+inventario:
+- inventario no tiene nada que ver con catalogo
+- al inventario se le va a agregar los productos independientemente, nada que ver con catalogo
+- foto, nombre y cantidad
+- alerta a elegir de x productos al llegar a x stock (eleccion de admin)
+
+en cotizacion: al agregar un producto que sea del catalogo
+al pasar contrato se agregaran productos de inventario y el enganche
+
+
+ewj: mesa x manteles

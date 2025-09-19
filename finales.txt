@@ -1,0 +1,56 @@
+SEGUNDA VERSION
+
+PASADO MAÑANA
+
+
+- rol de costura podria ver costura, produccion tela y repartidor
+- rol de repartidor podra ver produccion tela costura y otros
+- tendran gastos todos ellos
+
+
+reposiciones : usuarios de cobranza y venta
+
+productos que llegaron mal
+
+
+
+
+
+tener en cuenta contratos al borrarlos regresar el stack de los productos cogidos si aun existen en el inventario
+si se cambia de nombre al producto tmb en el inventario jaja
+
+
+-------------
+Nuevo modulo de reposiciones, subir los productos que llegaron mal
+
+Pner un buscador de reposiciones por id tambien
+
+Para el usuario de venta y de cobranza seran lo mismo, se filtrara solo el contenido que hayan subido
+Admin/Gerente tendra filtros de todos los usuarios, mis resposiciones, y seleccionar usuarios para filtrar por sus reposiciones
+Secretaria tendra filtros de todos los usuarios, no tendra el de mis resposiciones, y seleccionar usuarios para filtrar por sus reposiciones, tampoco podra añadir reposiciones
+Supervisor de venta y de cobranza tendra filtros de todos los usuarios (asignados), mis resposiciones, y seleccionar usuarios para filtrar por sus reposiciones (solo sus asignados)
+
+
+-------------------------------------------------
+PREGUNTAR ESTO DE ABAJO
+
+LO QUE VERA CADA ROL:
+- Rol de tela solo vera su apartado, produccion otros y costura
+- Rol de costura vera costura, produccion tela y repartidor
+- Repartidor va a poder ver costura, produccion tela y produccion otros (este rol tmb va a tener gastos en el modulo de gastos)
+
+PRODUCCION TELA: Solo veran rol de costura, de tela y repartidor, y administrador y gerente
+
+
+------ULTIMAS PREGUNTAS------
+
+¿El productor de tela tendra deshabilitado esto no para los productores de tela?
+-¿Que es el status de abierta y cerrada?-
+
+REPARTIDOR---
+A QUE TE REFIERES CON Repartidor: Acceso a su ruta asignada y a los clientes dentro de ella
+paraentrega?
+TENDRA ACCESO A DECLARAR GASTOS?
+Gastos locales ingresos locales?
+
+INGRESOS DEL DASHBOADR

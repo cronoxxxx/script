@@ -23,7 +23,7 @@ PARA MAÑANA
 -- inventario no mandar a la papelera sino a rejected
 resolver cotizaciones de no poner status deleted
 no editar atributos como descripcion nombre y precio
-aunque se borre del inventario en vendedores con la suma total hacer un aproximado con los productos que tiene conectandolos con su productId
+aunque se borre del inventario en vendedores con la suma total hacer un aproximado con los productos que tiene conectandolos con su productId (que le den)
 resolver pdf de cotizaciones
 resolver imagenes
 al actualizar nombre de catalogo conectar y actualizar nombre de inventario
@@ -60,3 +60,5 @@ productos que llegaron mal
 
 
 
+tener en cuenta contratos al borrarlos regresar el stack de los productos cogidos si aun existen en el inventario
+si se cambia de nombre al producto tmb en el inventario jaja
