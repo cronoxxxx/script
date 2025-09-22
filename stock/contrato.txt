@@ -1,0 +1,3 @@
+CONTROL DE MESAS
+DELIVERY
+MOSTRADOR = Mostrar productos de categoria "del dia" para 
